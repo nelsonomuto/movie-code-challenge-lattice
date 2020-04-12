@@ -1,3 +1,11 @@
+### Search results
+
+![Screenshot results](/docs/results.png)
+
+### Movie detail
+
+![Screenshot details](/docs/detail.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
